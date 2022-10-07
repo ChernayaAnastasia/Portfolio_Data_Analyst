@@ -1,2 +1,2 @@
-# YPraktikum_projects
-Папка проектов из курса Аналитик данных Яндекс.Практикума
+# Portfolio projects
+## This repository keeps my projects
