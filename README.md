@@ -1,6 +1,6 @@
 # Data Analysis Projects
  
-Все проекты выполнены в **Jupiter notebook**. Для корректной работы ссылок в тетрадках с кодом рекомендуется просматривать по ссылкам ниже в **NBViewer**.
+Все проекты выполнены в **Jupiter notebook**. Рекомендуется просматривать по ссылкам ниже в **NBViewer**.
 
 [Сертификаты](https://github.com/ChernayaAnastasia/Certificates/blob/main/Anastasia%20Chernaya_20222DA00422.pdf)
 
